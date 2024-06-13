@@ -1,0 +1,2 @@
+version,device name,recording epoch time,recording time,recording timezone,platform,appVersion,device id,sensors,sampleRateMs,standardisation
+3,iPhone 14 Pro,1718292420940,2024-06-13_15-27-00,Europe/Amsterdam,ios,1.35,43908a03-93d1-4314-8749-0e642b8b1875,Accelerometer|Gravity|Gyroscope|Orientation|Heart Rate|Wrist Motion|Annotation|GyroscopeUncalibrated|AccelerometerUncalibrated,50|50|50|50|10|10||50|50,false
